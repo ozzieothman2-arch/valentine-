@@ -1,6 +1,4 @@
 # For my pooks 
-A little something for my pooks 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
